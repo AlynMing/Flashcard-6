@@ -10,7 +10,7 @@
 ### App Walk-though
 `TODO://` 
 
-<img src="https://media.giphy.com/media/lr1agLdjHUFm9i64VR/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/QytNBjQX34gX4HGyWc/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
