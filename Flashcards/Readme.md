@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Simple Flashcards app
+`TODO://` Simple Flashcards App
 
 ### App Walk-though
 `TODO://` 
